@@ -1,1 +1,1 @@
-/home/common/conda/anaconda2/bin/conda install costcla
+/home/common/conda/anaconda2/bin/pip install costcla
